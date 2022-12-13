@@ -1,0 +1,35 @@
+img {
+    width: 1000px;
+    height:740px;
+    border-style: solid;
+    border-color: rgb(26, 222, 98);
+}
+
+body {
+    background-color: black;
+    color: rgb(26, 222, 98);
+}
+
+h1 {
+    font-size: 50px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    width: 1000px;
+    color:aliceblue;
+    margin: 30px auto;
+    
+}
+
+div {
+    width: 1000px;
+    margin: 30px auto;
+}
+
+a {
+    text-decoration: none;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    color:rgb(233, 236, 234);
+    border: solid;
+    padding: 1px;
+    
+}
