@@ -1,0 +1,41 @@
+body {
+    background-color:black;
+}
+
+p {
+    font-family: verdana;
+    font-size: 18px;
+    color:aliceblue;
+    margin-bottom: 68px;
+
+}
+
+h1 {
+    color:rgb(238, 16, 0);
+    margin-bottom: 60px;
+    margin-top: 30px;
+}
+
+a {
+    
+    color:aliceblue;
+    text-decoration: none;
+    background-color: red;
+    padding: 15px 90px;
+}
+
+div{
+
+    width: 700px;
+    margin: 30px auto;
+    border: 2px solid firebrick;
+    padding: 40px 20px;
+    color:antiquewhite;
+    text-align: center;
+    
+}
+
+img {
+    width: 700px;
+
+}
