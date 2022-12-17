@@ -1,0 +1,64 @@
+body {
+    background-image: url(Img/fundo.png);
+    width: 800px;
+    margin: 20px auto;
+    
+   
+    
+
+}
+div {
+    font-family: Arial;
+    color:aliceblue;
+    
+}
+
+h1 {
+    font-size: 60px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-decoration: underline;
+    text-align: center;
+    color:aliceblue;
+    margin-top: 35px;
+    margin-bottom: 55px;
+    
+    
+    
+}
+
+h2 {
+    font-size: 25px;
+    color:rgb(247, 210, 165);
+    margin-bottom: 40px;
+    margin-top: 60px;
+    
+    
+    
+}
+
+p {
+    font-size: 20px;
+    font-family: verdana;
+    margin-top: 35px;
+    margin-bottom: 60px;
+    text-align:justify;
+    margin-right: 30px;
+    
+    
+}
+
+img {
+   width: 500px;
+    text-align: center;
+    
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+
+
+
+
